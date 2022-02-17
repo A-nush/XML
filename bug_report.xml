@@ -1,1 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug>
+<Sammary>Optimize: Sliders of brightness, contrast are disabled</Sammary>
+<Priority>Major</Priority> 
+<Component>Kimba</Component>
+<Enviroment>
+<field name="Enviroment">Oracle VM VirtualBox </field>
+<field name="Enviroment">OS Windows XP </field>
+</Enviroment>
+<Description>
+<field name="1">Open the app</field>
+<field name="2">Double click on the picture</field>
+<field name="3">Move the sliders left and right adjust the brighness, contrast</field>
+</Description>
+<Actual_result>Sliders of brighness and contrast are disabled</Actual_result>
+<Expected_result>Sliders are adjust the brighness and contrast</Expected_result>
+</bug>
 
